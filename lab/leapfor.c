@@ -1,9 +1,9 @@
 #include<stdio.h>
 main(){
-	int y1,y2;
+	int ye1,ye2;
 	printf("Enter year1:\n");
-	scanf("%d",&y1);
+	scanf("%d",&ye1);
 	printf("Enter year2:\n");
-	scanf("%d",&y2);
+	scanf("%d",&ye2);
 	
 }
